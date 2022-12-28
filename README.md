@@ -75,6 +75,22 @@ https://github.com/taworn-ta7/examples.moonville
 
 --------------------
 
+## AgaUtils
+
+![01](img/agautils/1.png) | ![02](img/agautils/2.png)
+
+![03](img/agautils/3.png) | ![04](img/agautils/4.png)
+
+One day, I've playing game [Agarest](https://en.wikipedia.org/wiki/Record_of_Agarest_War) and think that, how should I wear a weapon to be able to use this combination skill?
+
+I'm a programmer and I think I will write a utility.  I'm thinking about programming tool and it fit with I want to try writing on [nw.js](https://nwjs.io), and, it's answer: AgaUtils.
+
+One thing but sorry, application that build by nw is quite large, very large. :|
+
+https://github.com/taworn-ta7/utils.agarest.agautils.git
+
+--------------------
+
 ## Battle Tank
 
 ![01](img/battletank/01.png) | ![02](img/battletank/02.png)
@@ -158,3 +174,10 @@ My programming blog.
 
 https://medium.com/@taworn.ta7_46080
 
+--------------------
+
+## Last
+
+Sorry, but I'm not good at English. T_T
+
+Taworn Ta.
