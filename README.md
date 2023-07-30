@@ -20,9 +20,10 @@ Beginner codes for various platforms.
 
 Currently, we have:
 
-* [beginner_nest10](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_nest10)
-* [beginner_flutter3](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_flutter3)
-* [beginner_vue3](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_vue3)
+* [Beginner Nest 10](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_nest10)
+* [Beginner Flutter 3](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_flutter3)
+* [Beginner Vue 3](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_vue3)
+* [Beginner Tauri 1.4 + Vue 3](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_tauri1_vue3)
 
 For server(s), currently have Nest only, have these features:
 
@@ -215,3 +216,4 @@ https://medium.com/@taworn.ta7_46080
 Sorry, but I'm not good at English. T_T
 
 Taworn Ta.
+
