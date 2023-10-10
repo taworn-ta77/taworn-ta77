@@ -2,7 +2,7 @@ About Oo+
 =========
 
 * 👋 Hi, I’m Taworn Ta., nickname Oo+.
-* 👀 I’m interested in Vue, Nuxt, Nest, TypeScript and Flutter.
+* 👀 I’m interested in Vue, Nest, TypeScript and Flutter.
 * 🌱 I’m currently learning Vue and Flutter.
 * 📫 Reach me in taworn.ta77@gmail.com.
 
@@ -20,23 +20,25 @@ Beginner codes for various platforms.
 
 Currently, we have:
 
-* [Beginner Nest 10](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_nest10)
+* [Beginner Android API Level 24](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_android24)
 * [Beginner Flutter 3](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_flutter3)
 * [Beginner Vue 3](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_vue3)
 * [Beginner Tauri 1.4 + Vue 3](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_tauri1_vue3)
+* [Beginner Nest 10](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_nest10)
+* [Beginner Go 1](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_go1)
 
-For server(s), currently have Nest only, have these features:
+For servers, we have these features:
 
 * Logging with colorize
+* Config files
 * HTTP exception with more information
-* Dump interceptor to output header and body
-* Task schedule to deleted unused log files and database, configurable
 * Mail template and send mail sample
+* Background task scheduled to delete unused data table(s)
 
-For client(s), have these features:
+For clients, we have these features:
 
 * Light/Dark Mode
-* Switchable Color Themes
+* Switchable 10 Color Themes
 * 2 Languages, English and Thai
 * MessageBox
 * WaitBox
