@@ -22,10 +22,9 @@ Currently, we have:
 
 * [Beginner Android API Level 24](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_android24)
 * [Beginner Flutter 3](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_flutter3)
-* [Beginner Vue 3](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_vue3)
-* [Beginner Tauri 1.4 + Vue 3](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_tauri1_vue3)
-* [Beginner Nest 10](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_nest10)
 * [Beginner Go 1](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_go1)
+* [Beginner Nest 10](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_nest10)
+* [Beginner Vue 3](https://gitlab.com/taworn.ta7/apps.beginners/-/tree/main/beginner_vue3)
 
 For servers, we have these features:
 
@@ -38,7 +37,7 @@ For servers, we have these features:
 For clients, we have these features:
 
 * Light/Dark Mode
-* Switchable 10 Color Themes
+* Switchable Color Themes
 * 2 Languages, English and Thai
 * MessageBox
 * WaitBox
