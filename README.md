@@ -38,7 +38,7 @@ For servers, we have these features:
 For clients, we have these features:
 
 * Light/Dark Mode
-* Switchable 10 Color Themes
+* Switchable Color Themes
 * 2 Languages, English and Thai
 * MessageBox
 * WaitBox
