@@ -2,8 +2,8 @@ About Oo+
 =========
 
 * 👋 Hi, I’m Taworn Ta., nickname Oo+.
-* 👀 I’m interested in Vue, Nest, TypeScript and Flutter.
-* 🌱 I’m currently learning Vue and Flutter.
+* 👀 I’m interested in Vue, Nuxt, Nest, .NET, Flutter, TypeScript and Games Programming.
+* 🌱 I’m currently learning Nuxt, Nest, .NET and Games Programming.
 * 📫 Reach me in taworn.ta77@gmail.com.
 
 --------------------
@@ -192,7 +192,7 @@ https://github.com/taworn-ta7/apps.thumbnails-creator
 
 Apps and Components, all written by C#.
 
-https://gitlab.com/taworn.ta7
+https://gitlab.com/taworn.ta7/tpig.legacy
 
 --------------------
 
