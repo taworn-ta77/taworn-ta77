@@ -2,8 +2,8 @@ About Oo+
 =========
 
 * 👋 Hi, I’m Taworn Ta., nickname Oo+.
-* 👀 I’m interested in Vue, Nest, TypeScript and Flutter.
-* 🌱 I’m currently learning Vue and Flutter.
+* 👀 I’m interested in Vue, Nuxt, TypeScript, Flutter and .NET.
+* 🌱 I’m currently learning Nuxt and .NET.
 * 📫 Reach me in taworn.ta77@gmail.com.
 
 --------------------
